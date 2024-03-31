@@ -1,3 +1,3 @@
-## Extension APP
+# checkingapp
 
 A new Flutter project.
